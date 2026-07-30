@@ -1,4 +1,4 @@
-# StatisticsTraining
+# Statistics training - The StatQuest Illustrated Guide to Statistics (SIGS)
 
 ## Chapter 1 - Understanding Fundamental Concepts in Statistics
 [DONE!] Task - Calculating statistics in python and R
