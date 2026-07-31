@@ -4,4 +4,7 @@
 [DONE!] Task - Calculating statistics in python and R
 
 ## Chapter 2 - Visualizing Data and Calculating Probabilities with Histograms
-Task - Drawing Histograms in Python and R
+[DONE!] Task - Drawing Histograms in Python and R
+
+## Chapter 3 – Statistical Probability Distributions in Python and R
+Task – Create and fit statistical probability distributions to histogram data, and calculate probabilities
