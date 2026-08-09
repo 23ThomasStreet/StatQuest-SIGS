@@ -7,4 +7,8 @@
 [DONE!] Task - Drawing Histograms in Python and R
 
 ## Chapter 3 – Statistical Probability Distributions in Python and R
-Task – Create and fit statistical probability distributions to histogram data, and calculate probabilities
+[DONE!] Task – Create and fit statistical probability distributions to histogram data, and calculate probabilities
+
+## Chapter 4 – Making Decisions with Hypothesis Testing and the Null Hypothesis
+Task - ???
+
