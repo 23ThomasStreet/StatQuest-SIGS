@@ -16,4 +16,6 @@
 [DONE!] Task – Calculating p-values in Python and R.
 
 ## Chapter 6 – Using a Single Variable to Make Predictions and Decisions with Linear Regression
-[PENDING...] Task – Performing Linear Regression in Python and R.
+[DONE!] Task – Performing Linear Regression in Python and R.
+
+## Chapter 7 – Lorem ipsum dolor...
