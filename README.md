@@ -24,5 +24,8 @@
 ## Chapter 8 - Testing for Differences with t-tests
 [DONE!] Task – Performing t-tests using Linear Regression in Python.
 
-## Chapter 09 - Determining How Much Data to Collect with Power Analyses
-[DONE!] Task – Learn how sample sizes influences confidence in the accuracy of the Estimated Mean, alongside how to conduct a Power Anlaysis for a *t*-test.
+## Chapter 9 - Determining How Much Data to Collect with Power Analyses
+[DONE!] Task – Learn how sample sizes influences confidence in the accuracy of the Estimated Mean, alongside how to conduct a Power Anlaysis for a *t*-test.'
+
+## Chapter 10 – *p*-value Pitfalls and How to Avoid Them
+[] Task – Learn about the Multiple Testing problem, about adjusted *p*-values, and about the negative effects of Significance Chasing.
