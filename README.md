@@ -20,3 +20,6 @@
 
 ## Chapter 7 – Using More Variables to Make Predictions and Decisions with Multiple Regression
 [DONE!] Task – Performing Multiple Regression in Python.
+
+## Chapter 8 - Testing for Differences with t-tests
+[DONE!] Task – Performing t-tests using Linear Regression in Python.
