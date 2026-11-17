@@ -28,4 +28,7 @@
 [DONE!] Task – Learn how sample sizes influences confidence in the accuracy of the Estimated Mean, alongside how to conduct a Power Anlaysis for a *t*-test.'
 
 ## Chapter 10 – *p*-value Pitfalls and How to Avoid Them
-[] Task – Learn about the Multiple Testing problem, about adjusted *p*-values, and about the negative effects of Significance Chasing.
+[DONE!] Task – Learn about the Multiple Testing problem, about adjusted *p*-values, and about the negative effects of Significance Chasing.
+
+## Chapter 11 - Using Regression to Test for More Differences with ANOVA and ANCOVA
+[DONE!] Task – Learn and perform ANOVA tests, and ANCOVA tests, and calculate *p*-values for both, using the nullhypothesis to build a histogram.
